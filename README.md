@@ -1,8 +1,5 @@
-# React + Vite
+## Idea
+Simple calculator app made with React Js and Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Image
+![Screenshot 2024-03-30 165835](https://github.com/AlexMocMagic/Calculator/assets/126344692/5b49a5d1-ed28-4550-bcce-89d8d87411f5)
